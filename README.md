@@ -48,7 +48,8 @@ ${\textsf{\color{#CC5500}GAD}}$
 <div align="center">
 
 
-<img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/2181d6fb-a139-4b59-a716-f0a2b21ae57e" />
+<img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/12e2d9a8-ae52-4a0b-8c51-e123b704b653" />
+
 
 ---
 <a href="https://https://pin.it/5VYThHlYb">
@@ -59,6 +60,3 @@ ${\textsf{\color{#CC5500}GAD}}$
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pysisputmtbzhyslj2mommfk2a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=944b33&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-<div align="center"><img width="490" height="40" alt="image" src="https://github.com/user-attachments/assets/69544bd3-03f3-434e-bf12-368f9e9e0a48" />
