@@ -58,5 +58,8 @@ ${\textsf{\color{#CC5500}GAD}}$
 <a href="https://www.sharespotapp.com/deerlybeloved">
 <img src="https://img.shields.io/badge/₊˚✩%20sharespot-AC6437?style=for-the-badge&labelColor=9E8A86&color=AC6437">
 </a>
+<a href="https://dyynamiight.straw.page/">
+<img src="https://img.shields.io/badge/₊˚✩%20strawpage-AC6437?style=for-the-badge&labelColor=9E8A86&color=AC6437">
+</a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pysisputmtbzhyslj2mommfk2a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=944b33&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
