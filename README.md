@@ -55,7 +55,7 @@ ${\textsf{\color{#CC5500}GAD}}$
 <a href="https://https://pin.it/5VYThHlYb">
 <img src="https://img.shields.io/badge/₊˚✩%20pinterest-AC6437?style=for-the-badge&labelColor=9E8A86&color=AC6437">
 </a>
-<a href="https://www.sharespotapp.com/deerlybeloved">
+<a href="https://www.sharespotapp.com/dynamiight">
 <img src="https://img.shields.io/badge/₊˚✩%20sharespot-AC6437?style=for-the-badge&labelColor=9E8A86&color=AC6437">
 </a>
 <a href="https://dyynamiight.straw.page/">
